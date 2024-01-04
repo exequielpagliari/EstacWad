@@ -149,7 +149,7 @@ maps
 			}
 		}
 		defaultfloortexture = "RROCK03";
-		defaultceiltexture = "CEIL1_1";
+		defaultceiltexture = "ROCK5";
 		defaulttoptexture = "ROCK5";
 		defaultwalltexture = "ROCK5";
 		defaultbottomtexture = "ROCK5";
@@ -165,9 +165,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = -3330.658f;
-		viewpositiony = -346.3694f;
-		viewscale = 1.352534f;
+		viewpositionx = -277.414f;
+		viewpositiony = -530.8854f;
+		viewscale = 1.461913f;
 		scriptcompiler = "zdoom_acs.cfg";
 		
 		grid
